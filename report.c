@@ -167,7 +167,7 @@ void report_grbl_help() {
                         "~ (cycle start)\r\n"
                         "! (feed hold)\r\n"
                         "? (current status)\r\n"
-                        "qq (reset Grbl)\r\n"));
+                        "* (reset Grbl)\r\n"));
   #endif
 }
 
